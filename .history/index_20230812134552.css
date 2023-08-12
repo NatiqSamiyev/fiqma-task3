@@ -134,11 +134,14 @@
     margin-right: 31px;
     width: 140px;
   }
+
   .container h4 {
     margin-bottom: 4.5px;
     font-size: 12px;
   }
+
   .container p {
     font-size: 10px;
+
   }
 }

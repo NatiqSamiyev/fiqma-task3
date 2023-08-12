@@ -132,13 +132,17 @@
 
   .container ul li {
     margin-right: 31px;
-    width: 140px;
   }
+
   .container h4 {
     margin-bottom: 4.5px;
     font-size: 12px;
   }
+
   .container p {
+    height: 40px;
     font-size: 10px;
+    width: 140px;
+    height: 38px;
   }
 }
